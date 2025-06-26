@@ -19,11 +19,10 @@
 ## 🚀 Getting Started
 
 1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/your-username/roots-tech-ecommerce.git
    ```
-
-````
 
 2. **Install dependencies:**
 
@@ -53,4 +52,6 @@ This project is licensed under the **MIT License**.
 
 Made with ❤️ to support local artisans and promote sustainable shopping.
 
-````
+```
+
+```
